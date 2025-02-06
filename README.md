@@ -11,7 +11,7 @@
 </div>
 
 ###
-<img align="right" height="200" src="https://i.pinimg.com/originals/c6/b7/e6/c6b7e6056342cbed6e3f24f833dcf7cf.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/c6/b7/e6/c6b7e6056342cbed6e3f24f833dcf7cf.gif"  />
 
 ###
 
