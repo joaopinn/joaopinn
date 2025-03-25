@@ -1,49 +1,140 @@
-<h2 align="left">Bem-vindo ao meu repositório, meu nome é João Guilherme!</h2>
-
-###
-
-
-<br clear="both">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&"/>
+ 
+ <div align="center">
+   <samp>
+     <b>
+       フルスタック開発者
+       <br>
+       Hello, my name is João!
+       <br>
+ </div>
+       
+ <br>
+ <br>
+       
+<div align="center">
+   <img src="https://i.pinimg.com/originals/aa/27/6f/aa276f216df48139802c58e6a9394dfb.gif" width="400">
+</div>
+ 
+ <div align="center" width="100%">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+information+systems+student" alt="Typing SVG"/>
+ </div>
+ 
+ <br>
+ <details align="center">
+     <summary>
+       <samp>
+         <b>More Info</b>
+       </samp>
+     </summary>
+     <br>
+  <div align="center">
+ 
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopinn&theme=nord_dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  /> |
+ | :-: | :-: |
+ 
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopinn&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api?username=joaopinn&theme=nord&show_icons=true&hide_border=true&count_private=true) |
+ | :-: | :-: |
+ 
+ </div>
+ 
+### 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopinn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=joaopinn" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+      alt="Node"
+      title="Node" 
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+  <img 
+      alt="Bootstrap"
+      title="Bootstrap" 
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  />
+  <img 
+      alt="SASS" 
+      title="SASS"
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+  />
+  <img 
+      alt="Java" 
+      title="Java"
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+  />
+  <img 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 50px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+      alt="Postgresql" 
+      title="Postgresql"
+      width="30px" 
+      style="padding-right: 0;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  />
 </div>
 
-###
-<img align="right" height="150" src="https://i.pinimg.com/originals/c6/b7/e6/c6b7e6056342cbed6e3f24f833dcf7cf.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/joaopinn_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joaopinn20/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@joaopinn_58873&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+ </div>
+ 
+ <br>
+ 
+ ##
+ 
+ <br>
+ 
+ <div align="center">
+ 
+   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jgpinheiro30@gmail.com)
+   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaopinn_/)
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joaopinn20/)
+ 
+ 
+ </div>
+ 
+ ##
+ 
+ </details>
+ 
+ <br>
+ <br>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
