@@ -30,7 +30,7 @@
      <br>
   <div align="center">
  
-   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopinn&theme=nord_dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  /> |
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopinn&theme=nord_dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinn&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="joaopinn's GitHub Stats" /> |
  | :-: | :-: |
  
    | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopinn&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api?username=joaopinn&theme=nord&show_icons=true&hide_border=true&count_private=true) |
