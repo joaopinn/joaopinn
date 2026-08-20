@@ -4,8 +4,8 @@
 
 I build reliable, user-centered software at the intersection of **full-stack engineering**, **Data Science**. My experience ranges from delivering production web platforms and automating cloud infrastructure to researching scalable, real-time systems for electric mobility.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jgmarinho.com-d1823e?style=flat-square)](https://portfolio-joaopinn.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaolimamarinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopinn20/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joaopinn.com-d1823e?style=flat-square)](https://portfolio-joaopinn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopinn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopinn20/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jgpinheiro30@gmail.com)
 
 
