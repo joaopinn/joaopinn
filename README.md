@@ -11,9 +11,12 @@ I build reliable, user-centered software at the intersection of **full-stack eng
 
 ## Technical toolkit
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL  
+**Languages:** TypeScript, JavaScript, Python, Java, SQL
+
 **Frontend:** React, Next.js, Tailwind CSS
+
 **Backend & data:** Node.js, Spring Boot, PostgreSQL, Redis, REST
+
 **Cloud & quality:** AWS, Docker, Kubernetes, CI/CD
 
 ## A little more about me
