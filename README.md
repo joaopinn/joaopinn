@@ -1,4 +1,4 @@
-<# João Guilherme Gonçalves Pinheiro
+# João Guilherme Gonçalves Pinheiro
 
 **Full-Stack Developer · information systems student at UNEX**
 
